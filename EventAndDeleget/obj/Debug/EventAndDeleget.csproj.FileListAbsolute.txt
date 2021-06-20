@@ -1,0 +1,6 @@
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\EventAndDeleget\obj\Debug\EventAndDeleget.csprojAssemblyReference.cache
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\EventAndDeleget\obj\Debug\EventAndDeleget.csproj.CoreCompileInputs.cache
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\EventAndDeleget\bin\Debug\EventAndDeleget.exe
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\EventAndDeleget\bin\Debug\EventAndDeleget.pdb
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\EventAndDeleget\obj\Debug\EventAndDeleget.exe
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\EventAndDeleget\obj\Debug\EventAndDeleget.pdb
