@@ -1,0 +1,6 @@
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\lab7\bin\Debug\lab7.exe
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\lab7\bin\Debug\lab7.pdb
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\lab7\obj\Debug\lab7.exe
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\lab7\obj\Debug\lab7.pdb

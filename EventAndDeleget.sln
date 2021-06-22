@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAndDeleget", "EventAndDeleget\EventAndDeleget.csproj", "{26958175-2F1E-4B56-89C4-046548EDDE0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab7", "lab7\lab7.csproj", "{99E9CCFB-1120-47D1-9063-F37B448CDA4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{26958175-2F1E-4B56-89C4-046548EDDE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26958175-2F1E-4B56-89C4-046548EDDE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26958175-2F1E-4B56-89C4-046548EDDE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E9CCFB-1120-47D1-9063-F37B448CDA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E9CCFB-1120-47D1-9063-F37B448CDA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E9CCFB-1120-47D1-9063-F37B448CDA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E9CCFB-1120-47D1-9063-F37B448CDA4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
