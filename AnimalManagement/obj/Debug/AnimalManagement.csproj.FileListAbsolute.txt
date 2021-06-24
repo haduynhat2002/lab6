@@ -1,0 +1,6 @@
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\AnimalManagement\bin\Debug\AnimalManagement.exe
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\AnimalManagement\bin\Debug\AnimalManagement.pdb
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\AnimalManagement\obj\Debug\AnimalManagement.csprojAssemblyReference.cache
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\AnimalManagement\obj\Debug\AnimalManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\AnimalManagement\obj\Debug\AnimalManagement.exe
+C:\Users\Ha Nhat\RiderProjects\EventAndDeleget\AnimalManagement\obj\Debug\AnimalManagement.pdb
